@@ -2,9 +2,7 @@
 <h1> <img src="https://media.tenor.com/zAL59Q3m-gUAAAAC/flaming-elmo-flaming-elmo-meme.gif", width="30"> Hello Hello! </h1>
 
 ### About me
-Hello there! 
-
-<!-- I'm Abram, a computer science undergraduate at SUTD. I have worked at LionsBot, a startup that designs and builds cleaning robots with personalities, at ST Electronics (Info-Security) doing some cyber-security work, and in Deloitte's cyber cloud team. I code in C++, Python, Java, Ruby and Swift and look forward to building the future of cloud computing, cool robots and applications that make our lives better! -->
+Hello there! I'm Charlotte, currently a computer science student studying at SUTD and taking an accelerated Masters with courses from Berkeley Extension. I've worked on projects in Ruby on Rails, Node.js and Android Studio before. I'm currently looking for an Internship in the Bay Area and am hoping to meet a passionate team. In my free time, I play around with making Instagram filters and crochet too! 
 
 <!--
 **charlottensm/charlottensm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
